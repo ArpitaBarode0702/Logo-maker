@@ -1,5 +1,1 @@
-Get Icons
-const icons = document.querySelectorAll('.icons .icon .reference .icon-button');
-icons.forEach((el) => {
-    console.log(el.getAttribute('aria-label'));
-})
+
